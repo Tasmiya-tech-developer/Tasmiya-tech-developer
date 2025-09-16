@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm [Tasmiya]
 
-<!--
-**Tasmiya-tech-developer/Tasmiya-tech-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm learning to code and building cool projects!  
+I’m interested in [AI].
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- Languages: Python
+- Tools: GitHub, VS Code
+
+---
+
+## 📂 Projects
+- [Project 1](#) – A small project I made to learn [something]
+- [Project 2](#) – Another one I’m working on
+
+---
+
+## 🌍 Connect with Me
+- Email: Tasmiyaofficial7@gmail.com
+- LinkedIn: (https://www.linkedin.com/in/tasmiya-37147523b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+⭐️ Thanks for visiting my profile!
